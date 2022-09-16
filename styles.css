@@ -148,6 +148,12 @@ section ul li:hover{
 
 }
 
+section a.link{
+
+    color: blue ;
+
+}
+
 /*animation*/
 
 header div{
